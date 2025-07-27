@@ -137,7 +137,7 @@ const Projects = () => {
                       Code
                     </a>
                   </Button>
-                  {project.title === 'Multi AI Chatbot' && (
+                    {project.demo !== '#' && (
                     <Button
                       size="sm"
                       className="flex-1 bg-gradient-primary hover:shadow-glow-primary transition-all duration-300"
