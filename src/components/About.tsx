@@ -26,6 +26,13 @@ const About = () => {
                 Through various internships and projects, I've gained hands-on experience in modern technologies 
                 and collaborated with teams to build impactful solutions.
               </p>
+              <a
+                href="/resume.pdf"
+                download
+                className="inline-block mt-6 px-6 py-3 bg-primary text-primary-foreground font-semibold rounded-lg hover:bg-primary/90 transition-colors"
+              >
+                Download Resume
+              </a>
             </div>
           </div>
 
