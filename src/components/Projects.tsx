@@ -34,7 +34,7 @@ const Projects = () => {
         'AI-powered recommendations'
       ],
       github: 'https://github.com/Arrkkkk/Personal-Finance-Tip-Generator-by-Axtech',
-      demo: '#'
+      demo: 'https://arrkkkk.github.io/Personal-Finance-Tip-Generator-by-Axtech/'
     },
     {
       title: 'GameHub',
